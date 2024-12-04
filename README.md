@@ -1,8 +1,10 @@
-## Hello!
+## Hi!
+
 I am a high school student in Japan.
 
 ### Organizations
-- Gunma Prefectural Takasaki Highschool - High school
+
+- Gunma Prefectural Takasaki Highschool (2022/4-2025/3)
   - [@suiranfes](https://github.com/suiranfes) - School festival
   - [@takasaki-physics](https://github.com/takasaki-physics) - Club activity
 
